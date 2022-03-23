@@ -22,5 +22,6 @@ public class Main {
         library.printBookAuthor("A.Todd");
         library.printBookAge(2019);
         library.printBookAfterAge(2020);
+        library.printBookAfterAge(2020);
     }
 }
